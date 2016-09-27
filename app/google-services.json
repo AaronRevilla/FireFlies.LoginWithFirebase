@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "79252867348",
+    "firebase_url": "https://loginproyect-e554b.firebaseio.com",
+    "project_id": "loginproyect-e554b",
+    "storage_bucket": "loginproyect-e554b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79252867348:android:fa2a16088171b63f",
+        "android_client_info": {
+          "package_name": "com.example.aaron.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79252867348-9neunngkdgkkg5ehs4bnnbu67hno4bgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aaron.loginwithfirebase",
+            "certificate_hash": "A1062C693D7589289B77CAC38D25CA15E8E2845E"
+          }
+        },
+        {
+          "client_id": "79252867348-el594o8pofgroj30d8n7hvj9ffvoc2d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWq5Wy9u8tRhiQNzGvOzE3xW8iYNhWtWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginWithFirebase</string>
+    <string-array name="google_permissions">
+        <!-- Request permission to read the user's Google Drive files -->
+        <item>https://www.googleapis.com/auth/drive.readonly</item>
+    </string-array>
+</resources>
+
